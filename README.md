@@ -17,7 +17,7 @@ The dataset originates from a list of 325 U.S. metropolitan cities from `cities1
 ## Tools and Technologies Used
 
 - R Studio, R Markdown
-- R Libraries: ggmap, ggplot2, dplyr, and additional libraries for clustering and data manipulation.
+- R Libraries: ggplot2, dplyr, and additional libraries for clustering and data manipulation.
 
 ## Results
 
